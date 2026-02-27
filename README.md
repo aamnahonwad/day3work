@@ -22,4 +22,3 @@ This repository contains Java programs implemented as part of Day 3 lab work to 
 - Method Overloading Calculator
 - Hospital Patient Management
 - Online Shopping Discount System
-- # day3work
